@@ -1,0 +1,298 @@
+ a{
+            text-decoration: none;
+        }
+        .logo{
+
+            background-image: url("image/logo1.jpg");
+            background-size: cover;
+            height:50px;
+            width:40px;
+        
+            margin-left: 20px;
+            
+            
+        }
+
+        .container-fluid{
+            background-color:  #1f2937;
+            height:200px;
+            align-items: center;
+            display:flex;
+            gap: 20px;
+            
+            
+            
+        }
+        
+        
+        .book {
+            
+            display: flex;
+        margin-right: 10px;
+        padding-left: 600px;
+        gap:30px;
+        }
+        .book1{
+            gap:20px;
+            
+        }
+        .nav-link{
+            font-size: large;
+            font-weight:bold ; 
+            color:white;
+        }
+        .navbar-brand{ 
+            font-size: xx-large;
+            font-weight: bold;
+            color:white;
+            
+        }
+        .my-icon{
+            color:white;
+            font-size: large;
+            font-weight: bold;
+            
+        }
+        .icon{
+            display: flex;
+        }
+        .hero{
+            text-align: center;
+            padding-top: 48px;
+            bac
+        }
+        .hero{
+
+    background-image:url("image/book.jpg");
+    height:400px;
+    width:100%;
+    background-size:cover;
+    background-color: #f3f4f6;
+    background-position:center;
+    background-repeat:no-repeat;
+    
+}
+.hero-sec{
+    font-size: xx-large;
+    font-weight:bold ;
+    color:black;
+}
+.hero1{
+    padding-top: 10px;
+    color:white;
+    font-size:large;
+}
+.hero2{
+    margin-top: 20px;
+    height:50px;
+    width:200px;
+    text-align: center;
+    background-color: grey;
+    color:white;
+    border-radius: 10px;
+    border:none;
+}
+.img{
+    height:13px;
+    width:15px;
+    align-items: center;
+    object-fit:cover ;
+}
+.features{
+    text-align: center;
+}
+.f1{
+    font-size: xx-large;
+    font-weight: 100px;
+}
+.f2{
+    font-size: larger;
+}
+.product{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+
+    
+    gap:20px;
+    
+    margin:40px 60px 40px ;
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+    justify-content: center;
+    
+}
+.pr1{
+    height:570px;
+    
+    border:1px solid whitesmoke;
+    align-items: center;
+    border-radius: 10px;
+
+}
+.pr2{
+    text-align: center;
+}
+.img-pr{
+      
+    padding:24px 24px 24px;
+    border-radius:20px;
+    
+    width:230px;
+    height:280px ;
+    
+    
+
+}
+.cart-pr{
+    
+    background-color: brown;
+    color: white;
+    border-radius: 5px;
+    border:none;
+    text-align: center;
+    width:150px;
+    height:30px;
+    margin-left: 40px;
+    justify-content: center;
+}
+.rupe{
+    align-items: center;
+    justify-content: center;
+    margin-left: 80px;
+}
+.cl{
+    font-weight: bold;
+}
+.icn{
+    color: palevioletred;
+}
+.sp1{
+    color:brown;
+}
+.categories{
+    border:1px solid black;
+    margin-top: 40px;
+    height:400px;
+    background-color:#3A3A3A;
+    
+
+
+}
+.catc{
+    text-align: center;
+    padding-top: 30px;
+}
+.cat1{
+    color:whitesmoke;
+}
+
+.cat2{
+    color:grey; 
+    font-size: large;
+}
+.cat3{
+    display:grid;
+    grid-template-columns: repeat(5,1fr);
+    gap:20px;
+    
+    margin: 50px 40px 40px;
+    
+
+}
+    .cat4{
+        width:230px;
+        height: 153px;
+        border:1px solid white;
+        text-align: center;
+        background-color: white;
+        border-radius: 10px;
+        
+    }
+    .c5{
+        font-size: xx-large;
+        font-weight:bold ;
+    }
+    .c6{
+        font-size: medium;
+        font-weight: lighter;
+    }
+    .cat-icn{
+        height:20px;
+        color:blue;
+    }
+.cat-icn1{
+    color:red;
+
+}
+.cat-icn2{
+    color:rebeccapurple;
+
+}
+.cat-icn3{
+    color:orange;
+
+}
+.cat-icn4{
+    color:rgb(210, 30, 156);
+
+}
+.foot{
+    margin-top: 40px;
+    border:1px solid white;
+
+}
+
+
+.foot1{
+    display:grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:20px;
+    
+    
+}
+.f5{
+    
+    text-align: center;
+    padding:20px 20px 20px;
+    
+
+}
+.li{
+    font-size: larger;
+    font-weight:bold ; 
+    color:brown;
+}
+foot-icon{
+    background-color: blue;
+}
+.face{
+    color:blue;
+
+}
+.ig{
+    color: orangered;
+}
+.twit{
+    background-color: aqua;
+}
+.link{
+    color:blue;
+}
+.copyright{
+    text-align: center;
+    font-size: large;
+    color: brown;
+}
+.foot{
+    background-color: #e8eef5;
+}
+.footicn{
+    color:rgb(255, 217, 0);
+    background-color: orange;
+}
+.lov{
+    
+    color:red;
+}
+
